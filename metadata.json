@@ -1,0 +1,6 @@
+{
+  "name": "Coolvix AC Repair",
+  "description": "A high-performance promotional landing page for Coolvix Air Conditioning Services, featuring an interactive diagnostic/booking flow and interactive key-feature highlight sections.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300..900;1,300..900&family=JetBrains+Mono:wght@400;500&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Rubik", "Inter", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "JetBrains Mono", ui-monospace, SFMono-Regular, monospace;
+
+  --color-brand-primary: #FFC107;
+  --color-brand-secondary: #007BFF;
+  --color-brand-dark: #1A1D20;
+  --color-brand-gray: #5A626A;
+  --color-brand-light: #F8F9FA;
+  --color-brand-border: #E9ECEF;
+}
+
